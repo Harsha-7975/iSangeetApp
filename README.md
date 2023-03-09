@@ -8,3 +8,9 @@ This is a music app where it reads the mp3 files from your phone recursively and
 ![image](https://user-images.githubusercontent.com/73788475/223700993-39d10540-96b2-4276-bcda-23efa8fa95d6.png)
 ![image](https://user-images.githubusercontent.com/73788475/223701057-d9b9a82d-7f0e-4107-a6fc-382547fd2448.png)
 
+After first update:
+Reset button 
+
+
+
+![image](https://user-images.githubusercontent.com/73788475/223927424-5fc0cb60-60a0-40e8-8fc4-5a585286dcfd.png)
