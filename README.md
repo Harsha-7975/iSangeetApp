@@ -1,5 +1,5 @@
 # iSangeetApp
-This is a music app where it reads the mp3 files from your phone recursively and plays it
+This is a music app where it reads the mp3 files from your phone recursively and plays it.
 
 
 
@@ -9,6 +9,7 @@ This is a music app where it reads the mp3 files from your phone recursively and
 ![image](https://user-images.githubusercontent.com/73788475/223701057-d9b9a82d-7f0e-4107-a6fc-382547fd2448.png)
 
 After first update:
+Now the player goes to the next song automatically!
 Reset button 
 
 
