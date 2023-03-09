@@ -31,7 +31,7 @@ ListView listView;
 
         listView = findViewById(R.id.listView);
         Dexter.withContext(this)
-                .withPermission(Manifest.permission.READ_MEDIA_AUDIO)
+                .withPermission(Manifest.permission.READ_EXTERNAL_STORAGE)
                 .withListener(new PermissionListener() {
                     @Override
                     public void onPermissionGranted(PermissionGrantedResponse permissionGrantedResponse) {
